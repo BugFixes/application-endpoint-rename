@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "application-rename-executor",
+    "name": "application-rename",
+    "region": "eu-west-2"
+  }
+}
